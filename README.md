@@ -1,23 +1,24 @@
 # E-Commerce Sales Analysis
 
-Este proyecto analiza un dataset de ventas de comercio electrónico. El objetivo es demostrar habilidades clave para un rol de Analista de Datos: limpieza, análisis descriptivo, KPIs, visualización y narrativa analítica.
+This project analyzes a small e-commerce sales dataset. It demonstrates essential skills for a Data Analyst role: data cleaning, descriptive analytics, KPI creation, visualization, and business insight generation.
 
-## Contenido del repositorio
-- `data/sample_orders.csv` — dataset pequeño con órdenes de ejemplo.
-- `notebooks/analysis.ipynb` — notebook con análisis completo.
-- `README.md` — explicación del proyecto, KPIs y resultados.
+## Repository Structure
+- `data/sample_orders.csv` — small dataset with example orders.
+- `notebooks/analysis.ipynb` — analysis notebook.
+- `README.md` — project overview and results.
 
-## Habilidades demostradas
-- Limpieza de datos (handling de nulos, tipos, duplicados).
-- KPIs: Revenue, AOV, ventas por categoría, top products.
-- Visualizaciones: series de tiempo, barras, distribución de precios.
-- Narrativa de insights orientada a negocio.
+## Skills Demonstrated
+- Data cleaning (handling nulls, types, duplicates).
+- KPI computation: Revenue, AOV, category performance.
+- Visualizations: time series, bar charts, price distribution.
+- Business-oriented narrative and interpretation.
 
-## Cómo revisar el proyecto
-1. Abrir la carpeta `notebooks`.
-2. Entrar al archivo `analysis.ipynb`.
-3. Ver la ejecución completa del análisis y gráficas.
+## How to Review
+1. Open the `notebooks` folder.
+2. View the `analysis.ipynb` notebook.
+3. Review the full analysis with outputs and explanations.
 
-## Resultado principal
-El análisis identifica patrones de ventas clave y muestra cómo generar insights accionables con datos simulados.
+## Summary
+The analysis identifies key sales patterns and demonstrates how to extract actionable insights from structured data.
+
 
